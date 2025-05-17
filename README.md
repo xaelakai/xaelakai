@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Alex, and I'm a junior game developer interested in creating fun and interesting games!
+
+- I'm currently working on a personal project called *Glimpse*, a 2D pixel art horror game.
+
 <!--
 **xaelakai/xaelakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
